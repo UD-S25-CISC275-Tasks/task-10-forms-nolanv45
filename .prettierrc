@@ -1,4 +1,31 @@
 {
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "trailingComma": "none",
+    "tabWidth": 4,
+    "semi": true,
+    "singleQuote": false
+=======
     "experimentalTernaries": true,
     "tabWidth": 4
+>>>>>>> origin
+=======
+    "experimentalTernaries": true,
+    "tabWidth": 4
+>>>>>>> origin/task-components
+=======
+    "experimentalTernaries": true,
+    "tabWidth": 4
+>>>>>>> 12d8c5ca68733b4497d1efc0551a3833f369f09f
+=======
+    "experimentalTernaries": true,
+    "tabWidth": 4
+>>>>>>> origin/task-forms
+=======
+    "experimentalTernaries": true,
+    "tabWidth": 4
+>>>>>>> 9e4b8ef87ec51227f36d9cf0962bc1774ab1413f
 }

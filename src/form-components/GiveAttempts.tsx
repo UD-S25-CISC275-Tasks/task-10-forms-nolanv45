@@ -30,13 +30,12 @@ export function GiveAttempts(): React.JSX.Element {
             <p>Attempts Remaining: {attempts}</p>
             <Form.Group controlId="attemptRequest">
             <Form.Label>Request Attempts:</Form.Label>
-            <Form.Control type="text" value={requests} onChange={setRequestsHandler} />
+            <Form.Control type="number" value={requests} onChange={setRequestsHandler} placeholder="Enter a number"/>
             </Form.Group>
-            <p>Attempts: {attempts} </p>
             <Button onClick={handleUse} disabled={attempts === 0}>
                 Use
             </Button>
-            <Button onClick={handleGain}>
+            <Button onClick={handleGain} >
                 Gain
             </Button>
         </div>

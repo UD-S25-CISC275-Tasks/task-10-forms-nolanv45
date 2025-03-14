@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "trailingComma": "none",
     "tabWidth": 4,
     "semi": true,
@@ -23,4 +24,8 @@
     "experimentalTernaries": true,
     "tabWidth": 4
 >>>>>>> origin/task-forms
+=======
+    "experimentalTernaries": true,
+    "tabWidth": 4
+>>>>>>> 9e4b8ef87ec51227f36d9cf0962bc1774ab1413f
 }
